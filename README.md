@@ -60,6 +60,5 @@ Utilize the Jupyter notebook `dataset_prepare/replay.ipynb` to replay recorded e
 ## 🌍 Real Robot Deployment
 To deploy on a real Franka robot, navigate to the `real_robot` directory. Scripts here are specifically adapted for real-world operations of the Franka robot.
 
-## 🆘 Support
-For any issues or further questions, please open an issue on the [GitHub repository](https://github.com/sainavaneet/ACTfranka).
+
 
