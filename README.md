@@ -18,7 +18,7 @@ Ensure you have the following installed:
 To get started with the ACT imitation learning framework, follow these steps:
 
 ```bash
-git clone https://github.com/sainavaneet/ACTfranka.git
+git clone https://github.com/manishalingala/ACTfranka.git
 cd ACTfranka
 pip install -r requirments.txt
 ```
